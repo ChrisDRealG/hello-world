@@ -1,6 +1,6 @@
 # hello-world
-my first repository
-I'm trying to learn coding to create some interesting programs.
-To learn list:
-Javascript
-html css
+my first repository \n
+I'm trying to learn coding to create some interesting programs. \n
+To learn list: \n
+Javascript \n
+html css \n
